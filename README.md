@@ -1,2 +1,2 @@
-# partedigital.github.io
+http://partedigital.github.io
 Meu Site
